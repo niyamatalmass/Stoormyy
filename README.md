@@ -1,5 +1,6 @@
 # Stoormyy
 Simple weather app
 
-![stormy_mockup](https://cloud.githubusercontent.com/assets/11002166/12472466/5668d7fa-bfbd-11e5-8561-e1790aef3282.png)
+![current](https://cloud.githubusercontent.com/assets/11002166/12484176/e7f2a566-c00d-11e5-9367-62817485da17.png)
+
 
